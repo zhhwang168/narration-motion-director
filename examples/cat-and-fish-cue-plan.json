@@ -1,0 +1,13 @@
+{
+  "status": "illustrative example; replace times with your recording cues",
+  "fps": 30,
+  "timingSource": "provisional storyboard estimates, not word alignment",
+  "identity": {"presenter": "use the current project's identity"},
+  "shots": [
+    {"id":"notice","startFrame":0,"endFrame":60,"spokenAnchor":"The cat notices the fish","visibleAction":"Eyes turn toward the fish before the paw moves","finalState":"The viewer understands what the cat wants"},
+    {"id":"reach","startFrame":60,"endFrame":120,"spokenAnchor":"It reaches for the fish","visibleAction":"Paw extends and makes contact; the fish stays still","finalState":"Paw touches the fish"},
+    {"id":"pull","startFrame":120,"endFrame":165,"spokenAnchor":"It pulls the fish closer","visibleAction":"Paw and fish move together","finalState":"Fish is held beside the cat"},
+    {"id":"reaction","startFrame":165,"endFrame":225,"spokenAnchor":"Then it notices us watching","visibleAction":"Eyes face the viewer; surprised expression holds","finalState":"The viewer recognizes that the cat has been caught"},
+    {"id":"hide","startFrame":225,"endFrame":285,"spokenAnchor":"It hides the fish and looks innocent","visibleAction":"Fish moves behind the body; face changes after the hide","finalState":"The joke lands"}
+  ]
+}

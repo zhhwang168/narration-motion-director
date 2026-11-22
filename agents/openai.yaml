@@ -1,0 +1,6 @@
+interface:
+  display_name: "Narration Motion Director"
+  short_description: "Turn narration into visible actions and timed scenes"
+  default_prompt: "Use $narration-motion-director to turn my narration into a timed action plan and refine the animation using the existing video toolkit."
+policy:
+  allow_implicit_invocation: true
